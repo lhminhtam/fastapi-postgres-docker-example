@@ -22,4 +22,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: lhminhtam/fastapi-app:latest
+          tags: lhmtam/fastapi-app:latest
